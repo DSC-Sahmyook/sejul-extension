@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// https://dev.to/bayardlouis470/create-chrome-extension-in-react-3pna
+
 function App() {
   return (
     <div className="App">
