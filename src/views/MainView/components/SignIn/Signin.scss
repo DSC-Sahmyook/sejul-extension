@@ -1,0 +1,20 @@
+@import "../../../../scss/variables";
+
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.additional-link {
+    font-size: 0.9rem;
+    color: $color-primary-blue;
+    text-decoration: none;
+    &:visited,
+    &:active {
+        color: $color-primary-blue;
+    }
+}

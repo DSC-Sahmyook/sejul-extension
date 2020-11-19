@@ -1,3 +1,3 @@
 import * as Auth from "./auth.api";
-
-export { Auth };
+import * as Article from "./article.api";
+export { Auth, Article };
